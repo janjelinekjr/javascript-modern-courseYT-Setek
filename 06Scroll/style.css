@@ -1,0 +1,40 @@
+body {
+    padding: 0px 100px;
+}
+
+.top-page {
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: rgb(96, 88, 41);
+    border-radius: 15px;
+    color: antiquewhite;
+    font-size: 18px;
+    position: fixed;
+    right: 20px;
+    bottom: 50px;
+    display: none;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+
+}
+
+nav li a {
+    text-decoration: none;
+    font-size: 20px;
+    border: 2px solid rgb(95, 70, 19);
+    padding: 5px 15px;
+    border-radius: 100px;
+    color: white;
+    background-color: rgb(196, 151, 94);
+}
+
+nav li a:hover {
+    background: rgb(50, 47, 34);
+}
+
+nav ul {
+    padding: 0;
+}

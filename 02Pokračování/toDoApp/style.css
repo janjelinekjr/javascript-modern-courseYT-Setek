@@ -1,0 +1,22 @@
+.firstBtn {
+    text-decoration: none;
+    font-size: 20px;
+    border: 7px solid red;
+    color: brown;
+    background-color: blue;
+    padding: 5px 10px 5px 10px;
+    border-radius: 20px;
+    letter-spacing: 2px;
+}
+
+a:hover {
+    background-color: rgb(84, 84, 183);
+}
+
+.firstButton {
+    margin-top: 40px;
+}
+
+#input-todo {
+    margin-top: 30px;
+}
